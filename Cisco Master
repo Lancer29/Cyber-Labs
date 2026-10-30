@@ -1,0 +1,24 @@
+Cisco Packet Tracer Lab
+
+Setting Up DHCP
+Source: https://www.youtube.com/watch?v=khw0I7_vY9A
+
+Items:
+    2911 Router
+    2960 Switch
+    Pc x2
+    Server
+
+Note: the Subnet Mask should automaitacllly set to 255.255.255.0
+
+Connect the First Ethernet Cable to the Router and the swtich Gigabyte Connection.
+
+The switch will the be connected to the server and computers
+
+Set the Ip address of the Router and Server: 192.168.1.1 for the router. 
+
+Set the Ip address of the Server to 192.168.1.2
+
+Then turn on DHCP on the Sever
+
+From there Access Each individual Computer and be sure it is set to accept DHCP ip addresses.
